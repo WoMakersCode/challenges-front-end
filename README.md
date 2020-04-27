@@ -1,7 +1,7 @@
 ![womakerscode logotipo](https://user-images.githubusercontent.com/42419543/80400262-ed87f580-8890-11ea-8e39-aabe0f3efe1c.png)
 
 # challenges-front-end
-Repositório referente à desafios sobre **algoritmos** da womakerscode.
+Repositório referente à desafios sobre **desenvolvimento front end** da womakerscode.
 
 Bem vindas ao nosso repositório de desafios, aqui vocês encontram diversos cenários para praticarem e também para contribuirem com a comunidade, mandem issues!
 
@@ -12,7 +12,7 @@ Bem vindas ao nosso repositório de desafios, aqui vocês encontram diversos cen
 
 :worried: Tenho uma sugestão de desafio, posso colaborar?
 
-**:point_right: Claro quue pode, esses repositório é para a comunidade, mande uma issue com a sugeatão de enunciado! Nossas organizadores [Laís Lima](https://twitter.com/laislima_dev), e [Ana Beatriz](https://twitter.com/anabneri) irão revisar e aceitar sua issue, fique à vontade**
+**:point_right: Claro quue pode, esses repositório é para a comunidade, mande uma issue com a sugestão de enunciado! Nossas organizadores [Laís Lima](https://twitter.com/laislima_dev), [Kamila Santos](https://twitter.com/kamilah_santos), e [Ana Beatriz](https://twitter.com/anabneri) irão revisar e aceitar sua issue, fique à vontade**
 
 
 # Commits semânticos
