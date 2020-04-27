@@ -29,5 +29,5 @@ Para enviar seus PR (pull Requests) usamos o padrão de commit semântico que co
 
 :zap: Acompanhem os outros repositórios e **vamos juntas** !
 
-Demais dúvidas entre no canal de Challenge Front End no slack da Womakerscode --> [Entre no nosso canal clicando aqui](https://grupo-womakerscode.slack.com/archives/G012THUU7EG)
+Demais dúvidas entre no canal de Challenge Front End no slack da Womakerscode --> [Entre no nosso canal clicando aqui](https://grupo-womakerscode.slack.com/archives/C0126NAKPTRG)
 
