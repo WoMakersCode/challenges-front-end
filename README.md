@@ -26,6 +26,7 @@ Estamos adicionando os desafios na aba `issues` deste repositório. Todos os des
 2. Entre no nosso canal do slack, lá tiramos todas as dúvidas e auxiliamos no que for possível. [Entre no nosso slack clicando aqui](https://app.slack.com/client/TCPDKMM4Z/CCQ5XKXPX)
 
 **:question:Tenho uma sugestão de desafio, posso colaborar?**
+
 Claro que pode, crie uma `issue` com o seu desafio, utilizando o template. Nossas organizadoras [Laís Lima](https://twitter.com/laislima_dev), [Kamila Santos](https://twitter.com/kamilah_santos), e [Ana Beatriz](https://twitter.com/anabneri).
 
 **:question: Posso enviar um tutorial?**
