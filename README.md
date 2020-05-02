@@ -26,6 +26,26 @@ Estamos adicionando os desafios na aba `issues` deste repositório. Todos os des
 2. Entre no nosso canal do slack, lá tiramos todas as dúvidas e auxiliamos no que for possível. [Entre no nosso slack clicando aqui](https://app.slack.com/client/TCPDKMM4Z/CCQ5XKXPX)
 
 **:question:Tenho uma sugestão de desafio, posso colaborar?**
+
+## :thinking: Como funciona
+Estamos adicionando os desafios na aba `issues` deste repositório. Todos os desafios estão marcados uma label de nível de dificuldade.
+
+### Entendendo as labels de nível
+* **`level-100`:** básico
+* **`level-200`:** intermediário
+* **`level-300`:** avançado
+* **`level-400`:** expert
+
+## :computer: Desafios disponíveis
+* [Formulário de CEP](https://github.com/WoMakersCode/challenges-front-end/issues/1)
+
+
+## Dúvidas frequentes
+**:question: Não entendi um enunciado, o que eu faço?**
+1. Você pode interagir nos comentários da `issue`, enviando a sua dúvida
+2. Entre no nosso canal do slack, lá tiramos todas as dúvidas e auxiliamos no que for possível. [Entre no nosso slack clicando aqui](https://app.slack.com/client/TCPDKMM4Z/CCQ5XKXPX)
+
+**:question:Tenho uma sugestão de desafio, posso colaborar?**
 Claro que pode, crie uma `issue` com o seu desafio, utilizando o template. Nossas organizadoras [Laís Lima](https://twitter.com/laislima_dev), [Kamila Santos](https://twitter.com/kamilah_santos), e [Ana Beatriz](https://twitter.com/anabneri).
 
 **:question: Posso enviar um tutorial?**
