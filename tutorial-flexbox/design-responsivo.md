@@ -8,7 +8,7 @@ Então podemos dizer que cada bloco de elemento de uma página \(imagem, textos,
   
 E como você faz para tornar o seu site responsivo? Através da tag Viewport.  
   
-A tag Viewport é responsável por nos permitir que o nosso site torne-se responsivo e que nos permita usar media queries \(veremos sobre isso mais a frente\). Usamos ela dentro da nossa tag &lt;head&gt;, pois no momento em que a página está sendo carregada ele será "chamado" permitindo com que meus blocos de elementos possam se comportar de maneira diferente de acordo com o tamanho da tela.  
+A tag Viewport é responsável por nos permitir que o nosso site torne-se responsivo e que nos permita usar media queries \(veremos sobre isso mais a frente\). Usamos ela dentro da nossa tag `&lt;head&gt;`, pois no momento em que a página está sendo carregada ele será "chamado" permitindo com que meus blocos de elementos possam se comportar de maneira diferente de acordo com o tamanho da tela.  
   
 Para implementá-lo basta você incluído dentro da tag &lt;head&gt;. Assim:
 
