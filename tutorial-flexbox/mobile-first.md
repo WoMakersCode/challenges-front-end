@@ -20,8 +20,8 @@ No exemplo acima determinamos que a nossa tag &lt;p&gt; até a resolução 767px
 
 Caso tenha ficado confuso para você acima, o rem é uma medida que usamos no CSS para trabalhar com responsividade, pois nos ajuda a deixar o código mais flexível facilitando o site conseguir se adequar a determinadas resoluções.
 
-O cálculo do rem consiste em atribuir um valor definido na raiz \(por isso o R = root em\) e a partir daí definirmos o tamanho das outras fontes pegando o valor dela em px e dividir pelo valor que atribuímos por lá \(por padrão usamos 16px\) para convertermos em rem. A raiz costuma ser a tag html.  
-Por exemplo: precisamos determinar o tamanho do nosso &lt;p&gt; em telas maiores. Em px ele tem 24. Pegamos o 24 e dividirmos por 16 que resultará em 1.5.
+O cálculo do rem consiste em atribuir um valor definido na raiz \(por isso o R = root em\) e a partir daí definirmos o tamanho das outras fontes pegando o valor dela em px e dividir pelo valor que atribuímos por lá \(por padrão usamos 16px\) para convertermos em rem. A raiz costuma ser a tag HTML.  
+Por exemplo: precisamos determinar o tamanho do nosso `<p>` em telas maiores. Em px ele tem 24. Pegamos o 24 e dividirmos por 16 que resultará em 1.5.
 
 ### **Qual é a diferença entre o design responsivo e adaptativo?**
 
