@@ -32,5 +32,5 @@ Poderíamos usar sem o screen? Sim, pois os dois teoricamente possuem a mesma re
 Não vamos aprofundar muito nas propriedades e regras do @media, pois nesta documentação vamos focar apenas nas mais usadas \(e que serão importantes no nosso desafio\), mas para se ter uma ideia podemos determinar largura para dispositivos mobile usando o device, especificar a orientação dele se está no modo retrato \(portrait\) ou paisagem \(landscape\), entre outros.
 
 ```
-Recomendamos sugerir um material de apoio para as mentorandas que queiram aprofundar mais sobre as outras regras do @media. Link do W3Schools \(em inglês\):  [https://www.w3schools.com/cssref/css3\_pr\_mediaquery.asp](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
+Material de apoio para se aprofundar mais sobre as outras regras do @media. Link do W3Schools \(em inglês\):  [https://www.w3schools.com/cssref/css3\_pr\_mediaquery.asp](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
 ```
