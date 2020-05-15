@@ -19,7 +19,7 @@ header {
 
 Perceba que usamos a propriedade @media determinando que a partir da largura 768px uma outra cor de fundo será exibida no header.
 
-Para declarar as media queries costumamos usar apenas o @media\(\) onde dentro dos parênteses determinamos o valor mínimo ou máximo da resolução como condicional \(min-width e max-width, respectivamente\), mas podemos usar outras propriedades ou determinar o máximo e mínimo delas juntos. Assim:
+Para declarar as media queries costumamos usar apenas o `@media` onde dentro dos parênteses determinamos o valor mínimo ou máximo da resolução como condicional \(min-width e max-width, respectivamente\), mas podemos usar outras propriedades ou determinar o máximo e mínimo delas juntos. Assim:
 
 ```css
 @media screen and (min-width: 768px and max-width: 1024px);
@@ -29,8 +29,9 @@ No exemplo acima estamos determinando que para um dispositivo com um screen \(te
 
 Poderíamos usar sem o screen? Sim, pois os dois teoricamente possuem a mesma regra onde a única diferença é que estamos deixando mais explícito uma especificação de que as telas que possuem determinada largura irão ter um comportamento específico.
 
-Não vamos aprofundar muito nas propriedades e regras do @media, pois nesta documentação vamos focar apenas nas mais usadas \(e que serão importantes no nosso desafio\), mas para se ter uma ideia podemos determinar largura para dispositivos mobile usando o device, especificar a orientação dele se está no modo retrato \(portrait\) ou paisagem \(landscape\), entre outros.
+Não vamos aprofundar muito nas propriedades e regras do `@media`, pois nesta documentação vamos focar apenas nas mais usadas \(e que serão importantes no nosso desafio\), mas para se ter uma ideia podemos determinar largura para dispositivos mobile usando o device, especificar a orientação dele se está no modo retrato \(portrait\) ou paisagem \(landscape\), entre outros.
 
-```
-Material de apoio para se aprofundar mais sobre as outras regras do @media. Link do W3Schools \(em inglês\):  [https://www.w3schools.com/cssref/css3\_pr\_mediaquery.asp](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
-```
+
+Material de apoio para se aprofundar mais sobre as outras regras do @media. Link do W3Schools \(em inglês\): 
+- https://www.w3schools.com/cssref/css3\_pr\_mediaquery.asp
+
