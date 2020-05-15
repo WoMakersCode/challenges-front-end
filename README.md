@@ -17,7 +17,7 @@ Estamos adicionando os desafios na aba `issues` deste repositório. Todos os des
 
 ## :computer: Desafios disponíveis
 * [Formulário de CEP](https://github.com/WoMakersCode/challenges-front-end/issues/1)
-
+* [Photo Grid](https://github.com/WoMakersCode/challenges-front-end/issues/6) 
 
 
 ## Dúvidas frequentes
