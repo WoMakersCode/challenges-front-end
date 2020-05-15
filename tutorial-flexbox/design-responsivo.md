@@ -21,9 +21,9 @@ Para implementá-lo basta você incluído dentro da tag &lt;head&gt;. Assim:
 </html>
 ```
 
-O width=device-width usamos ele para declarar que a nossa tela irá de se adaptar de acordo com a tela do dispositivo. Sem ele a nossa página ficaria do tamanho conforme a pessoa desenvolvedora iria adaptar.    
+O `width=device-width` usamos ele para declarar que a nossa tela irá de se adaptar de acordo com a tela do dispositivo. Sem ele a nossa página ficaria do tamanho conforme a pessoa desenvolvedora iria adaptar.    
   
-O initial-scale=1.0 usamos ele para declarar o nível de zoom inicial da página quando carregada pelo navegador.  
+O `initial-scale=1.0` usamos ele para declarar o nível de zoom inicial da página quando carregada pelo navegador.  
   
 Lá na frente você verá melhor na prática quando implementar o desafio.
 
