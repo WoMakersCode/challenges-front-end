@@ -17,7 +17,7 @@ header {
 }
 ```
 
-Perceba que usamos a propriedade @media determinando que a partir da largura 768px uma outra cor de fundo será exibida no header.
+Perceba que usamos a propriedade `@media` determinando que a partir da largura 768px uma outra cor de fundo será exibida no header.
 
 Para declarar as media queries costumamos usar apenas o `@media` onde dentro dos parênteses determinamos o valor mínimo ou máximo da resolução como condicional \(min-width e max-width, respectivamente\), mas podemos usar outras propriedades ou determinar o máximo e mínimo delas juntos. Assim:
 
