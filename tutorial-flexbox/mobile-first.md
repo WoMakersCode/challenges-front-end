@@ -16,7 +16,7 @@ p {
 }
 ```
 
-No exemplo acima determinamos que a nossa tag &lt;p&gt; até a resolução 767px possuirá 1rem \(16px\) e a partir do 768px terá o tamanho 1.5rem \(24px\).
+No exemplo acima determinamos que a nossa tag `<p>` até a resolução 767px possuirá 1rem \(16px\) e a partir do 768px terá o tamanho 1.5rem \(24px\).
 
 Caso tenha ficado confuso para você acima, o rem é uma medida que usamos no CSS para trabalhar com responsividade, pois nos ajuda a deixar o código mais flexível facilitando o site conseguir se adequar a determinadas resoluções.
 
