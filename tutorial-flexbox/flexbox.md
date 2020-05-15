@@ -2,13 +2,11 @@
 
 O Flexbox é um conjunto de ferramentas para a criação de layouts e grids responsivos de forma mais fácil e rápida. Para começarmos a usar precisamos incluir dentro da classe do elemento a propriedade display: flex.
 
-```
 Materiais de apoio sobre Flexbox para aprofundarem os seus conhecimentos. Sugestões:
 
-[https://origamid.com/projetos/flexbox-guia-completo/](https://origamid.com/projetos/flexbox-guia-completo/)
-[https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS\_layout/Flexbox](https://www.google.com/url?q=https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Flexbox&sa=D&ust=1555883853076000&usg=AFQjCNHktZTsOcuWG0CYSB9PQakgQRSm8Q) \(em inglês\)
-[https://philipwalton.github.io/solved-by-flexbox/](https://www.google.com/url?q=https://philipwalton.github.io/solved-by-flexbox/&sa=D&ust=1555883853076000&usg=AFQjCNENaoo2mV_3EyxGeUMY57-JijXHSA) \(em inglês\)
-```
+- https://origamid.com/projetos/flexbox-guia-completo/
+- https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS\_layout/Flexbox (em inglês)
+- https://philipwalton.github.io/solved-by-flexbox/ (em inglês)
 
 ### **Uma volta rápida ao passado**
 
@@ -22,12 +20,8 @@ Com o Flexbox não precisamos mais usá-los para estruturar grids.
 
 O Flexbox oferece várias propriedades que ajudam no processo de desenvolvimento de grids. Para começar a utilizar você precisa adicionar a propriedade display: flex dentro da classe do seu elemento. Com o flex nós fazemos com que todos os elementos filhos da da classe pai em flex itens, podendo então trabalhar com as outras propriedades flex.
 
-\*\*\*\*Como são várias vamos listar apenas as propriedades qe vamos usar no nosso desafio. Caso queira saber mais sobre as outras propriedades vamos deixar um material de apoio no final dessa documentação.
-
-```
 Outras propriedades do Flexbox:
-[https://origamid.com/projetos/flexbox-guia-completo/](https://www.google.com/url?q=https://origamid.com/projetos/flexbox-guia-completo/&sa=D&ust=1555883853078000&usg=AFQjCNEScf3GioGXTMlOB8197Kp1xDa8bA)
-```
+- https://origamid.com/projetos/flexbox-guia-completo/
 
 As propriedades vamos usar no nosso desafio são essas:
 
@@ -35,8 +29,4 @@ As propriedades vamos usar no nosso desafio são essas:
 - flex-wrap: define se os itens devem quebrar ou não a linha. Usando o wrap você determina que essa quebra seja realizada;
 - justify-content: define o posicionamento dos elementos, seja à esquerda \(flex-start\), ao centro \(center\), à direita \(flex-end\) ou alinhando entre os dois lados \(esquerda e direita\) de forma fluída \(space-between\).
 
-```
 A propriedade justify-content acaba substituindo e agindo de maneira correta o posicionamento dos elementos seja um lado do outro, ao centro, à esquerda ou direita, de forma flexível.
-```
-
-Agora que você já tem alguma noção do Flexbox vamos para o nosso desafio? :\)
