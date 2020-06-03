@@ -6,6 +6,9 @@ Este repositório é mantido pela comunidade WoMakersCode, trazendo uma série d
 
 [![license](https://img.shields.io/github/license/womakerscode/challenges-front-end.svg)](/license)
 
+## :question: Não sabe o que é Git ou Github?
+**Se você não sabe o que é git ou github** recomendamos que leia este [artigo](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/) e qualquer dúvida você pode perguntar no canal **#general** do nosso slack.
+
 ## :thinking: Como funciona
 Estamos adicionando os desafios na aba `issues` deste repositório. Todos os desafios estão marcados uma label de nível de dificuldade.
 
