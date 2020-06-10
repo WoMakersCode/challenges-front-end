@@ -19,9 +19,11 @@ Estamos adicionando os desafios na aba `issues` deste repositório. Todos os des
 * **`level-400`:** expert
 
 ## :computer: Desafios disponíveis
-* [Formulário de CEP](https://github.com/WoMakersCode/challenges-front-end/issues/1)
-* [Photo Grid](https://github.com/WoMakersCode/challenges-front-end/issues/6) 
-* [Formulário de CEP](https://github.com/WoMakersCode/challenges-front-end/issues/1)
+
+| Desafio | Resolução | Nível
+| ------------- |-------------| |:-------------:|
+|  [Formulário de CEP](https://github.com/WoMakersCode/challenges-front-end/issues/1) | ..  | .. |
+| [Formulário de CEP](https://github.com/WoMakersCode/challenges-front-end/issues/1) | ..  | .. |
 
 ## Dúvidas frequentes
 **:question: Não entendi um enunciado, o que eu faço?**
