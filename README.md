@@ -22,8 +22,11 @@ Estamos adicionando os desafios na aba `issues` deste repositório. Todos os des
 
 | Desafio | Resolução | Nível
 | ------------- |:-------------:|:-------------:|
-|  [Formulário de CEP](https://github.com/WoMakersCode/challenges-front-end/issues/1) | ..  | **`level-200`** |
+|  [Formulário de CEP](https://github.com/WoMakersCode/challenges-front-end/issues/1) | ..  | **`level-300`** |
+|  [PhotoGrid](https://github.com/WoMakersCode/challenges-front-end/issues/6) | ..  | **`level-100`** |
 
+## :computer: Tutoriais Disponíveis
+* [Flex-Box](https://github.com/WoMakersCode/challenges-front-end/tree/master/tutorial-flexbox)
 
 ## Dúvidas frequentes
 **:question: Não entendi um enunciado, o que eu faço?**
