@@ -22,7 +22,7 @@ Estamos adicionando os desafios na aba `issues` deste repositório. Todos os des
 
 | Desafio | Resolução | Nível
 | ------------- |:-------------:|:-------------:|
-|  [Formulário de CEP](https://github.com/WoMakersCode/challenges-front-end/issues/1) | ..  | **`level-200** |
+|  [Formulário de CEP](https://github.com/WoMakersCode/challenges-front-end/issues/1) | ..  | **`level-200`** |
 
 
 ## Dúvidas frequentes
