@@ -34,14 +34,14 @@ Já os tutoriais, workshops e conteúdos extensos ficam em pastas nesse mesmo re
 
 ## Dúvidas frequentes
 **:question: Tenho uma sugestão de desafio, posso colaborar?**
-1. Claro que pode. cire uma `ìssue` com seu desafio
+1. Claro que pode. crie uma `ìssue` com seu desafio
 2. Faça um Fork desse repositório
-3. Adicione o link para sua issue na tablea cima de **Desafios Disponíveis**
+3. Adicione o link para sua issue na tabela acima de **Desafios Disponíveis**
 4. Envie um Pull Request :tada:
 
 **:question: Não entendi um enunciado, o que eu faço?**
 1. Você pode interagir nos comentários da `issue`, enviando a sua dúvida
-2. Entre no slack, acesse o canal **#challenges-fronted** lá tiramos todas as dúvidas e auxiliamos no que for possível refente a esse repositório. [Entre no nosso slack clicando aqui](https://app.slack.com/client/TCPDKMM4Z/CCQ5XKXPX)
+2. Entre no slack, acesse o canal **#challenges-fronted** lá tiramos todas as dúvidas e auxiliamos no que for possível referente a esse repositório. [Entre no nosso slack clicando aqui](https://app.slack.com/client/TCPDKMM4Z/CCQ5XKXPX)
 
 **:question: Posso enviar um tutorial?**
 Para enviar um tutorial, siga os seguintes passos:
