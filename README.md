@@ -26,6 +26,7 @@ Já os tutoriais, workshops e conteúdos extensos ficam em pastas nesse mesmo re
 |  [Formulário de CEP](https://github.com/WoMakersCode/challenges-front-end/issues/1) | ..  | **`level-300`** |
 |  [PhotoGrid](https://github.com/WoMakersCode/challenges-front-end/issues/6) | ..  | **`level-100`** |
 |  [Conversor de moedas](https://github.com/WoMakersCode/challenges-front-end/issues/11) | ..  | **`level-300`** |
+|  [Formulário de login responsivo](https://github.com/WoMakersCode/challenges-front-end/issues/15) | ..  | **`level-200`** |
 
 ## :closed_book: Tutoriais Disponíveis
 | Tutorial | Nível | 
@@ -53,4 +54,4 @@ Para enviar um tutorial, siga os seguintes passos:
 5. :tada: Tenha o seu Pull Request aprovado - sucesso!
 
 ## Contributors
-[Laís Lima](https://twitter.com/laislima_dev), [Kamila Santos](https://twitter.com/kamilah_santos), e [Ana Beatriz](https://twitter.com/anabneri)
+[Laís Lima](https://twitter.com/laislima_dev), [Kamila Santos](https://twitter.com/kamilah_santos), [Ana Beatriz](https://twitter.com/anabneri) e [Bianca Pereira](https://github.com/BiancaPereira)
