@@ -54,4 +54,5 @@ Para enviar um tutorial, siga os seguintes passos:
 5. :tada: Tenha o seu Pull Request aprovado - sucesso!
 
 ## Contributors
-[Laís Lima](https://twitter.com/laislima_dev), [Kamila Santos](https://twitter.com/kamilah_santos), [Ana Beatriz](https://twitter.com/anabneri) e [Bianca Pereira](https://github.com/BiancaPereira)
+[Laís Lima](https://twitter.com/laislima_dev), [Kamila Santos](https://twitter.com/kamilah_santos), [Ana Beatriz](https://twitter.com/anabneri) , [Bianca Pereira](https://github.com/BiancaPereira), [Aline Bezzoco](https://github.com/bezzocoaline),
+[Cynthia Zanoni](https://github.com/cyz) e [Samara Miranda](https://github.com/samaramiranda) e [Leticia Campos](https://github.com/leticiacamposs2)
