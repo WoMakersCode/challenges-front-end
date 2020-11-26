@@ -27,6 +27,7 @@ Já os tutoriais, workshops e conteúdos extensos ficam em pastas nesse mesmo re
 |  [PhotoGrid](https://github.com/WoMakersCode/challenges-front-end/issues/6) | ..  | **`level-100`** |
 |  [Conversor de moedas](https://github.com/WoMakersCode/challenges-front-end/issues/11) | ..  | **`level-300`** |
 |  [Formulário de login responsivo](https://github.com/WoMakersCode/challenges-front-end/issues/15) | ..  | **`level-200`** |
+|  [Jogo Pedra Papel Tesoura](https://github.com/WoMakersCode/challenges-front-end/issues/18) | ..  | .. |
 
 ## :closed_book: Tutoriais Disponíveis
 | Tutorial | Nível | 
