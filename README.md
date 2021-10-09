@@ -46,7 +46,7 @@ Já os tutoriais, workshops e conteúdos extensos ficam em pastas nesse mesmo re
 2. Entre no slack, acesse o canal **#challenges-fronted** lá tiramos todas as dúvidas e auxiliamos no que for possível referente a esse repositório. [Entre no nosso slack clicando aqui](https://app.slack.com/client/TCPDKMM4Z/CCQ5XKXPX)
 
 **:question: Posso enviar um tutorial?**
-Para enviar um tutorial, siga os seguintes passos:
+Para enviar um tutorial, siga esses passos:
 1. :fork_and_knife: Faça uma fork deste repositório
 2. :hammer: Siga o guia de contribuição
 3. :busts_in_silhouette: Adicione o seu perfil na área de pessoas colaboradoras do projeto (contributors)
