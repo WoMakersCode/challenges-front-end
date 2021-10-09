@@ -51,7 +51,8 @@ Para enviar um tutorial, siga os seguintes passos:
 2. :hammer: Siga o guia de contribuição
 3. :busts_in_silhouette: Adicione o seu perfil na área de pessoas colaboradoras do projeto (contributors)
 4. :wrench: Envie um Pull Request
-5. :tada: Tenha o seu Pull Request aprovado - sucesso!
+5. :wrench: Solicite a revisão do **hacktober-team**
+6. :tada: Tenha o seu Pull Request aprovado - sucesso!
 
 ## Contributors
 [Laís Lima](https://twitter.com/laislima_dev), [Kamila Santos](https://twitter.com/kamilah_santos), [Ana Beatriz](https://twitter.com/anabneri) , [Bianca Pereira](https://github.com/BiancaPereira), [Aline Bezzoco](https://github.com/bezzocoaline),
